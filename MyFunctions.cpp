@@ -8,3 +8,7 @@ int addNumbers(int a, int b) {
 void sayHello() {
     std::cout << "Hello from MyFunctions.cpp!" << std::endl;
 }
+
+int multiplyNumbers(int a, int b) {
+    return a * b;
+}
